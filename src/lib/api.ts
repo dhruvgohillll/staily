@@ -1,5 +1,5 @@
-//const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001/api';
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://69648a769811cda9eebdd48d--dhruvstaily01.netlify.app/api';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001/api';
+//const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://69648a769811cda9eebdd48d--dhruvstaily01.netlify.app/api';
 
 export interface LoginRequest {
   email: string;
